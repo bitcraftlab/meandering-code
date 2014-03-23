@@ -1,16 +1,34 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Drive",
+            "Datastore",
+            "BigQuery"
         ],
         "platforms": [
-            "insert platforms"
+            "ios",
+            "windows",
+            "linux",
+            "raspberry pi"
         ],
         "toolkits": [
-            "insert toolkits"
+            "processing",
+            "javascript"
         ]
     },
     "themes": [
-        "insert themes"
+        "meander",
+        "fractal",
+        "labyrinth",
+        "embroidery",
+        "autobiographic"
+        "machine embroidery",
+        "computational craft",
+        "ariadne's thread",
+        "getting lost",
+        "folding",
+        "craft",
+        "code",
+        "dna"
     ]
 }

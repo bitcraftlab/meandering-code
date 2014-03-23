@@ -1,33 +1,34 @@
-# Project Title
-Insert the name of your project
+# Meandring Code
+
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+
+- Martin Schneider - http://www.bitcraftlab.com
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
 
-## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
-
-[Example Link](http://www.google.com "Example Link")
-
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-[Example Link](http://www.google.com "Example Link")
+*[Meandring Code](https://devart.withgoogle.com/#/project/18037975)* is a *Google Dev-Art Project* about my meandrous wanderings in computational craft.  
+It's about my obessions with code, handicraft and the decorative arts.
+And it's an actual labyrinth made of machine-embroidered fabric.
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+This shall serve as the cover image.  
+It's a meandering meander. A meander of the 2nd degree. A handcrafted fractal gem.
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+A generative secret is hidden inside this pattern, and I want to track it down and bring it to the light of day as part of this project!
+
+![Example Image](project_images/cover-dark.jpg?raw=true "Example Image")
+
+
+This video shows a craftimation based on my earlier explorations in computational craft.
+
+http://www.youtube.com/watch?v=2xvczE4-5hs
+
+It us based on Processing code that is rotting away on my hard drive, and I'll take this as an opportunity to releasee it and carefully craft it into this project.
+
+This Muybridge Horse video will repeat in a loop in the background as my coding soundtrack for the next 5 days... (As if life wasn't hard enough already)
+
+http://www.yourepeat.com/watch/?v=2xvczE4-5hs
+
+May Ariadne - the goddess of computational craft - show me the way through this labyrinth of code, APIs, and tools!
