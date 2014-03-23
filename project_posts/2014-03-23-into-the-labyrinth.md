@@ -7,7 +7,7 @@ All I know is, that in the end I want to have a continuous, spacefilling curve.
 One that goes from start to finish, without interruption.
 Like Ariadne's thread, but way, way longer.
 
-Maybe this little [Meandroid](../project_posts/2014-03-23-inspiration.md#Meandroid) can serve me as a Talisman...
+Maybe this little [Meandroid](2014-03-23-inspiration.md#Meandroid) can serve me as a Talisman...
 
 
 ### Storming the Brain ###
