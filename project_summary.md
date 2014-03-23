@@ -1,4 +1,4 @@
-# Meandring Code
+# Meandering Code
 
 
 ## Authors
@@ -7,7 +7,7 @@
 
 ## Description
 
-*[Meandring Code](https://devart.withgoogle.com/#/project/18037975)* is a *Google Dev-Art Project* about my meandrous wanderings in computational craft.
+*[Meandering Code](https://devart.withgoogle.com/#/project/18037975)* is a *Google Dev-Art Project* about my meandrous wanderings in computational craft.
 It's about my obessions with code, handicraft and the decorative arts.
 And it's an actual labyrinth made of machine-embroidered fabric.
 
@@ -24,7 +24,7 @@ This video shows a craftimation based on my earlier explorations in computationa
 
 http://www.youtube.com/watch?v=2xvczE4-5hs
 
-It us based on Processing code that is rotting away on my hard drive, and I'll take this as an opportunity to releasee it and carefully craft it into this project. This Muybridge Horse video will repeat in a loop in the background as my coding soundtrack for the next 5 days... (As if life wasn't hard enough already)
+It's based on Processing code that is rotting away on my hard drive, and I'll take this as an opportunity to releasee it and carefully craft it into this project. This Muybridge Horse video will repeat in a loop in the background as my coding soundtrack for the next 5 days... (As if life wasn't hard enough already)
 
 http://www.yourepeat.com/watch/?v=2xvczE4-5hs
 
