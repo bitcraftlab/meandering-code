@@ -17,7 +17,7 @@ This shall serve as the cover image.
 It's a meandering meander. A meander of the 2nd degree. A handcrafted fractal gem.
 A generative secret is hidden inside this pattern, and I want to track it down and bring it to the light of day as part of this project!
 
-![Example Image](project_images/cover-dark.jpg?raw=true "Example Image")
+![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
 
 This video shows a craftimation based on my earlier explorations in computational craft.
