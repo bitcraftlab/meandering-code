@@ -13,7 +13,7 @@ Alex demonstrated a Processing sketch where he was folding patterns of sound int
 
 #### Ringhom's Labyrinth Dances ####
 
-A very interesting theory Lars-Ivar Ringhom in 1938, postulates that labyrinths were used for folk dances, that are very much like the Maypole Dances popular in Sweden:
+A very interesting theory developed by Lars-Ivar Ringhom in 1938, postulates that labyrinths were used for folk dances, that are very much like the Maypole Dances popular in Sweden:
 
 ![Labyrinth Dance](http://www.artship.org/images/inquiry/research/scenography/image028.jpg)
 
@@ -27,7 +27,8 @@ An illustration of an actual maypole dance:
 
 ![Maypole Dance](http://farm9.staticflickr.com/8206/8201660840_3812b81255_z.jpg)
 
-Below two illustrations by Noemi Speiser showing the abstract notation for braiding track-plans she developed in *"The Manual of Braiding"*.
+Below two illustrations by Noemi Speiser.
+They show the abstract notation for braiding track-plans she developed in *"The Manual of Braiding"*.
 
 ![Braiding Machine Diagram](https://pbs.twimg.com/media/BjfALl4CYAAQiDy.png) ![Maypole Dance Diagram](https://pbs.twimg.com/media/BjfF-waCMAAiDfo.png)
 
