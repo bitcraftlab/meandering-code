@@ -3,10 +3,11 @@ Inspiration II
 
 ## Meandering Music ##
 
-** It would make a lot of sense to complement the installation by a sonic layer. **
+**It would make a lot of sense to complement the installation by a sonic layer.**
 
-Last year I met [Alex McLean](http://yaxu.org/) when I took part in his workshop called [Drawing, Weaving, and Speaking Live Generative Music](http://yaxu.org/workshop-drawing-weaving-and-speaking-live-generative-music/). Alex demonstrated a Processing sketch where he was folding patterns of sound into a space filling curve. I'll reference his sketch here if I can find it.
-(It does not seem to be in [Yaxu's Github](https://github.com/yaxu/))
+Last year I met [Alex McLean](http://yaxu.org/) when I took part in his workshop called [Drawing, Weaving, and Speaking Live Generative Music](http://yaxu.org/workshop-drawing-weaving-and-speaking-live-generative-music/).
+
+Alex demonstrated a Processing sketch where he was folding patterns of sound into a space filling curve. I'll reference his sketch here if I can find it. (It does not seem to be in [Yaxu's Github](https://github.com/yaxu/))
 
 ## Meandering Dance and Craft ##
 
