@@ -8,8 +8,11 @@ This trajaectory can be described by a mathematical function.
 
  [Maillardet's Automaton](http://www.fi.edu/learn/sci-tech/automaton/automaton.php?cts=instrumentation) is a little robot draftsman, created in 1810.
  
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Henri_Maillardet_automaton%2C_London%2C_England%2C_c._1810_-_Franklin_Institute_-_DSC06656.jpg/360px-Henri_Maillardet_automaton%2C_London%2C_England%2C_c._1810_-_Franklin_Institute_-_DSC06656.jpg =250x) 
-![](http://www.fi.edu/learn/sci-tech/automaton/images/automaton_sketch_picture_ship.gif =343x)
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Henri_Maillardet_automaton%2C_London%2C_England%2C_c._1810_-_Franklin_Institute_-_DSC06656.jpg/360px-Henri_Maillardet_automaton%2C_London%2C_England%2C_c._1810_-_Franklin_Institute_-_DSC06656.jpg) 
+
+It is programmed to create drawings like this one:
+
+![](http://www.fi.edu/learn/sci-tech/automaton/images/automaton_sketch_picture_ship.gif)
 
 The motion of this device is controlled by functions encoded in the shape of cams or cogwheels. Those functions can be desinged to simulate the irregular trajectories of human movement, a principle that is also used in the [Unreliable Machinery Project](http://www.nand.io/awareness/unreliable-machinery).
 
