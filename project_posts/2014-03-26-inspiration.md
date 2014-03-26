@@ -28,16 +28,16 @@ See the excellent [Making Formulas](http://blog.wolframalpha.com/2013/05/17/maki
 
 #### Functional Calligraphy
 
-I love the concentrated look od this guy, who seems to be able to draw periodic curves with the precision of a machine.
+I love the concentrated look of this guy, who seems to be able to draw periodic curves with the precision of a machine.
  
 ![](https://pbs.twimg.com/media/Bjm7ZmhCAAAp_fD.jpg)
 
 In comparison Maillardet's automaton is a really sloppy calligrapher.
 
 
-#### Lissajou Figures
+#### Lissajous Figures
 
-If you use periodic functions like sine and cosine to control both horizontal and vertical motion you get what is known as Lissajou figures. Those also used in [Lissajou-Do](http://nunchaku.wikia.com/wiki/Lissajous-do) a martial arts technique, where you defeat your opponent with mathematical beauty!
+If you use periodic functions like sine and cosine to control both horizontal and vertical motion you get what is known as Lissajous figures. Those also used in [Lissajous-Do](http://nunchaku.wikia.com/wiki/Lissajous-do) a martial arts technique, where you defeat your opponent with mathematical beauty!
 
 
 #### Guioche
