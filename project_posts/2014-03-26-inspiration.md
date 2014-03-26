@@ -53,8 +53,6 @@ Here is a collection of calligraphic vignettes that are created from a single co
 
 These kind of Vignettes inspired me to create the Vignette Explorer:
 
-![](https://pbs.twimg.com/media/A0ii7-JCUAA_TVH.png)
-
 ![](../project_images/vignette-explorer.png)
 
 I like to call my vignettes hypercycloids because they are generalization of [cycloids](http://en.wikipedia.org/wiki/Cycloid) to higher dimensions. 
