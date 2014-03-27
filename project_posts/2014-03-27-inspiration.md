@@ -8,7 +8,6 @@ Fractal embroidery seems to have popped up again and again all over planet earth
 First a picture of the [Vicsek Fractal](http://en.wikipedia.org/wiki/Vicsek_fractal) also known as Box Fractal, so you know what we're looking for:
 
 ![](http://mathworld.wolfram.com/images/eps-gif/BoxFractalLSystem_800.gif)
-
 * [Box Fractal](http://mathworld.wolfram.com/BoxFractal.html) at Mathworld
 * [Box Fractal](http://en.wikipedia.org/wiki/Box_fractal) at Wikipedia
 
