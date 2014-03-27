@@ -49,9 +49,10 @@ The [Kutch district](en.wikipedia.org/wiki/Kutch%20district) in western India is
 #### Temari Embroidery
 
 [Temari](http://en.wikipedia.org/wiki/Temari_%28toy%29) is the japanese art of spherical embroidery.
-More of those beautiful balls in [this flickr set](http://www.flickr.com/photos/nanaakua/sets/72157617114284128)
 
 ![](https://o.twimg.com/2/proxy.jpg?t=HBg-aHR0cDovL2Zhcm0zLnN0YXRpY2ZsaWNrci5jb20vMjQ2NC8zNjI0MzA4NDgyX2VjMTM3OTkwNGRfei5qcGcU2gYUgAoAFgASAA&s=J2-nBQUGir_jDwnb5_yYPm4640Yf2MY0mwatA30wJd8)
+
+More of those beautiful balls in [this flickr set](http://www.flickr.com/photos/nanaakua/sets/72157617114284128)
 
 ## Cropcircles Take Command
 
