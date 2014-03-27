@@ -18,11 +18,11 @@ First a picture of the [Vicsek Fractal](http://en.wikipedia.org/wiki/Vicsek_frac
 
 The [Kutch district](en.wikipedia.org/wiki/Kutch%20district) in western India is famous for its traditional embroidery techniques. 
 
+![](http://photos1.blogger.com/blogger/6165/2282/320/MC-Fill%20Sketch.png)
+
+![](http://photos1.blogger.com/blogger/6165/2282/320/DMC2.png) ![](http://photos1.blogger.com/blogger/6165/2282/320/DMC3.png)
+
 * [Kutchwork Tutorial Blog](http://kutchwork-tutorial.blogspot.de) by [Bhavani Harikrishnan](https://plus.google.com/+BhavaniHarikrishnansuhabhava)
-
-![](http://photos1.blogger.com/blogger/6165/2282/320/MC-Fill%20Sketch.png) 
-
- ![](http://photos1.blogger.com/blogger/6165/2282/320/DMC2.png) ![](http://photos1.blogger.com/blogger/6165/2282/320/DMC3.png) 
 
 ----
 
