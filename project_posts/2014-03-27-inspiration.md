@@ -16,7 +16,7 @@ First a picture of the [Vicsek Fractal](http://en.wikipedia.org/wiki/Vicsek_frac
 
 #### Kutch Embroidery
 
-The [Kutch district](en.wikipedia.org/wiki/Kutch%20district) in western India is famous for its traditional embroidery techniques. 
+The [Kutch district](en.wikipedia.org/wiki/Kutch%20district) in western India is famous for its traditional embroidery techniques.
 
 ![](http://photos1.blogger.com/blogger/6165/2282/320/MC-Fill%20Sketch.png)
 
@@ -24,27 +24,18 @@ The [Kutch district](en.wikipedia.org/wiki/Kutch%20district) in western India is
 
 * [Kutchwork Tutorial Blog](http://kutchwork-tutorial.blogspot.de) by [Bhavani Harikrishnan](https://plus.google.com/+BhavaniHarikrishnansuhabhava)
 
-----
-
 ![](../project_images/fractal_kutch_embroidery.png)
 
 * Pattern from my [Fractal Kutch Embroidery Howto](www.k2g2.org/howto:fractal_kutch_embroidery)
 
----- 
-
-
 #### Kasuti Embroidery
 
 * [Kasuti Blog](http://kasuti.blogspot.com) by Bhavani Harikrishnan
-* [Pinterest Board](http://www.pinterest.com/isiscat/embroidery-indian-kasuti-patterns/) dedicated to Kasuti Patterns 
- 
-----
- 
+* [Pinterest Board](http://www.pinterest.com/isiscat/embroidery-indian-kasuti-patterns/) dedicated to Kasuti Patterns
+
 #### Armenian Embroidery
 
 [![](http://armenianembroidery.tripod.com/images/stiches8.gif)](http://armenianembroidery.tripod.com/sketches.htm)
- 
-----
 
 #### Temari Embroidery
 
