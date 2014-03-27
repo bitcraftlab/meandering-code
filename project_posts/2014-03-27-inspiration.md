@@ -1,7 +1,8 @@
+
 Inspiration V
 =============
 
-## The Snowflake of Tamás Vicsek
+### The Snowflake of Tamás Vicsek
 
 Fractal embroidery seems to have popped up again and again all over planet earth at places as diverse as India, Armenia and Hungary. I could not find any literature about that, so I'll just provide a few visual cues.
 
@@ -13,8 +14,7 @@ First a picture of the [Vicsek Fractal](http://en.wikipedia.org/wiki/Vicsek_frac
 * [Box Fractal](http://en.wikipedia.org/wiki/Box_fractal) at Wikipedia
 
 
-## Niches of Fractal Embroidery 
-
+### Niches of Fractal Embroidery 
 
 #### Kutch Embroidery
 
