@@ -1,4 +1,3 @@
-
 Inspiration V
 =============
 
@@ -12,7 +11,6 @@ First a picture of the [Vicsek Fractal](http://en.wikipedia.org/wiki/Vicsek_frac
 
 * [Box Fractal](http://mathworld.wolfram.com/BoxFractal.html) at Mathworld
 * [Box Fractal](http://en.wikipedia.org/wiki/Box_fractal) at Wikipedia
-
 
 ### Niches of Fractal Embroidery 
 
@@ -28,9 +26,9 @@ The [Kutch district](en.wikipedia.org/wiki/Kutch%20district) in western India is
 
 ----
 
-* Pattern from my [Fractal Kutch Embroidery Howto](www.k2g2.org/howto:fractal_kutch_embroidery)
-
 ![](../project_images/fractal_kutch_embroidery.png)
+
+* Pattern from my [Fractal Kutch Embroidery Howto](www.k2g2.org/howto:fractal_kutch_embroidery)
 
 ---- 
 
