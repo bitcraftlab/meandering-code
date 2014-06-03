@@ -3,7 +3,7 @@ Inspiration
 
 #### Meandroid ####
 
-![Meandroid](http://coral.aims.gov.au/info/images/3_28.jpg)
+![Meandroid](https://web.archive.org/web/20140211194446/http://coral.aims.gov.au/info/images/3_28.jpg)
 
 I stumbled upon it when browsing a page about [Colony Formation](http://coral.aims.gov.au/info/structure-colony.jsp)
 Looks like it's a part of stony coral known as [Platygyra](http://en.wikipedia.org/wiki/Platygyra):

@@ -15,7 +15,7 @@ Alex demonstrated a Processing sketch where he was folding patterns of sound int
 
 A very interesting theory developed by Lars-Ivar Ringhom in 1938, postulates that labyrinths were used for folk dances, that are very much like the Maypole Dances popular in Sweden:
 
-![Labyrinth Dance](http://www.artship.org/images/inquiry/research/scenography/image028.jpg)
+![Labyrinth Dance](https://web.archive.org/web/20140603051516/http://www.artship.org/images/inquiry/research/scenography/image028.jpg)
 
 While Ringholm's theory is refuted by labyrinth scientists, for the lack of historical evindence, this is still an incredibly interesting approach to labyrinth traces, and it immediately raises the question, as to what kinds of braids could be generated from the paths layed down in labyrinths!
 
@@ -25,12 +25,12 @@ I think it is notewory that actual braids only emerge if the paths of the braids
 
 An illustration of an actual maypole dance:
 
-![Maypole Dance](http://farm9.staticflickr.com/8206/8201660840_3812b81255_z.jpg)
+![Maypole Dance](https://web.archive.org/web/20140603051553/http://farm9.staticflickr.com/8206/8201660840_3812b81255_z.jpg)
 
 Below two illustrations by Noemi Speiser.
 They show the abstract notation for braiding track-plans she developed in *"The Manual of Braiding"*.
 
-![Braiding Machine Diagram](https://pbs.twimg.com/media/BjfALl4CYAAQiDy.png) ![Maypole Dance Diagram](https://pbs.twimg.com/media/BjfF-waCMAAiDfo.png)
+![Braiding Machine Diagram](https://web.archive.org/web/20140603051657/https://pbs.twimg.com/media/BjfF-waCMAAiDfo.png)
 
 
 

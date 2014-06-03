@@ -7,7 +7,8 @@ Fractal embroidery seems to have popped up again and again all over planet earth
 
 First a picture of the [Vicsek Fractal](http://en.wikipedia.org/wiki/Vicsek_fractal) also known as Box Fractal, so you know what we're looking for:
 
-![](http://mathworld.wolfram.com/images/eps-gif/BoxFractalLSystem_800.gif)
+![](http://mathworld.wolfram.com/images/eps-gif/BoxFractalLSystem_800.gif)  
+
 * [Box Fractal](http://mathworld.wolfram.com/BoxFractal.html) at Mathworld
 * [Box Fractal](http://en.wikipedia.org/wiki/Box_fractal) at Wikipedia
 
@@ -17,9 +18,9 @@ First a picture of the [Vicsek Fractal](http://en.wikipedia.org/wiki/Vicsek_frac
 
 The [Kutch district](en.wikipedia.org/wiki/Kutch%20district) in western India is famous for its traditional embroidery techniques.
 
-![](http://photos1.blogger.com/blogger/6165/2282/320/MC-Fill%20Sketch.png)
+![](https://web.archive.org/web/20140603052321/http://photos1.blogger.com/blogger/6165/2282/320/MC-Fill%20Sketch.png)
 
-![](http://photos1.blogger.com/blogger/6165/2282/320/DMC2.png) ![](http://photos1.blogger.com/blogger/6165/2282/320/DMC3.png)
+![](https://web.archive.org/web/20140603052426/http://photos1.blogger.com/blogger/6165/2282/320/DMC2.png) ![](https://web.archive.org/web/20140603052458/http://photos1.blogger.com/blogger/6165/2282/320/DMC3.png)
 
 * [Kutchwork Tutorial Blog](http://kutchwork-tutorial.blogspot.de) by [Bhavani Harikrishnan](https://plus.google.com/+BhavaniHarikrishnansuhabhava)
 
@@ -34,13 +35,13 @@ The [Kutch district](en.wikipedia.org/wiki/Kutch%20district) in western India is
 
 #### Armenian Embroidery
 
-[![](http://armenianembroidery.tripod.com/images/stiches8.gif)](http://armenianembroidery.tripod.com/sketches.htm)
+[![](https://web.archive.org/web/20070318064925/http://armenianembroidery.tripod.com/images/stiches8.gif)](http://armenianembroidery.tripod.com/sketches.htm)
 
 #### Temari Embroidery
 
 [Temari](http://en.wikipedia.org/wiki/Temari_%28toy%29) is the japanese art of spherical embroidery.
 
-![](https://o.twimg.com/2/proxy.jpg?t=HBg-aHR0cDovL2Zhcm0zLnN0YXRpY2ZsaWNrci5jb20vMjQ2NC8zNjI0MzA4NDgyX2VjMTM3OTkwNGRfei5qcGcU2gYUgAoAFgASAA&s=J2-nBQUGir_jDwnb5_yYPm4640Yf2MY0mwatA30wJd8)
+![](https://web.archive.org/web/20140603052919/https://farm3.staticflickr.com/2464/3624308482_ec1379904d_z.jpg)
 
 More of those beautiful balls in [this flickr set](http://www.flickr.com/photos/nanaakua/sets/72157617114284128).
 
@@ -52,14 +53,14 @@ Check out [The Labyrinth Knots' Crop Circle](http://www.cropcircleconnector.com/
  
 #### Crop Circles 
 
-![](http://www.cropcircleconnector.com/2012/cheesefoothead1/5367.jpg)
+![](https://web.archive.org/web/20130710192334/http://www.cropcircleconnector.com/2012/cheesefoothead1/5367.jpg)
 
 #### Labyrinth Design
 
-![](http://www.cropcircleconnector.com/2012/cheesefoothead1/The-Endless-Gallery-Fascili.jpg)
+![](https://web.archive.org/web/20140502181927/http://www.cropcircleconnector.com/2012/cheesefoothead1/The-Endless-Gallery-Fascili.jpg)
 
 #### Command and Conquer
 
-![](http://2.bp.blogspot.com/-uTr9lIxMcFE/Tq5E9zOb36I/AAAAAAAAAEw/1qPmyvbz9EE/s1600/apple-command-key.jpg)
+![](https://web.archive.org/web/20140603052641/http://2.bp.blogspot.com/-uTr9lIxMcFE/Tq5E9zOb36I/AAAAAAAAAEw/1qPmyvbz9EE/s1600/apple-command-key.jpg)
 
 

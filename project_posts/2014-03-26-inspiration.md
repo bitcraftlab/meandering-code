@@ -12,7 +12,7 @@ This trajaectory can be described by a mathematical function.
 
 It is programmed to create drawings like this one:
 
-![](http://www.fi.edu/learn/sci-tech/automaton/images/automaton_sketch_picture_ship.gif)
+![](https://web.archive.org/web/20140213165953/http://www.fi.edu/learn/sci-tech/automaton/images/automaton_sketch_picture_ship.gif)
 
 The motion of this device is controlled by functions encoded in the shape of cams or cogwheels. Those functions can be desinged to simulate the irregular trajectories of human movement, a principle that is also used in the [Unreliable Machinery Project](http://www.nand.io/awareness/unreliable-machinery).
 
@@ -52,7 +52,7 @@ http://www.youtube.com/watch?v=BG9e06IWAxE#t=47
 
 Here is a collection of calligraphic vignettes that are created from a single continuous curve:
 
-![](http://www.vectoropenstock.com/media/users/1880/4001/raw/e1dd79308e3e5f877c89ba37f1af52e6-5-calligraphic-vector-frames.jpg)
+![](https://web.archive.org/web/20140603051321/http://www.vectoropenstock.com/media/users/1880/4001/raw/e1dd79308e3e5f877c89ba37f1af52e6-5-calligraphic-vector-frames.jpg)
 
 These kind of Vignettes inspired me to create the Vignette Explorer:
 

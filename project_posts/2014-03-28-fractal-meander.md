@@ -19,7 +19,7 @@ As Edkins states on her website:
     
 So Edkins went for an approach that does not even try to fill the corners with a meandering path.
 
-![](http://gwydir.demon.co.uk/jo/greekkey/fractal2.gif)
+![](https://web.archive.org/web/20140603053036/http://gwydir.demon.co.uk/jo/greekkey/fractal2.gif)
 
 This fractal is quite far from what what we are looking for, but it's straight forward to generate programatically. Edkins posted a 4th iteratiopn version of it [here](http://gwydir.demon.co.uk/jo/greekkey/fractal4.gif).
 Note that this image is already 10.000 x 10.000 pixels large, since these fractals grow exponetially in size.
@@ -32,7 +32,7 @@ Edkins attempted to assemble the basic units by hand, but as she says:
     
 Here is her attempt, that looks kind of right, but if you expect it closely, it's not exactly balanced, and has some tiny defects:
 
-![](http://gwydir.demon.co.uk/jo/greekkey/gen2.gif)
+![](https://web.archive.org/web/20140603053018/http://gwydir.demon.co.uk/jo/greekkey/gen2.gif)
 
 A half-hearted attempt at creating a fractal meander was undetaken by Sharon Fay, as illustration for a paper titled [Standards and Reuse](http://www.ibm.com/developerworks/rational/library/2277.html)
 
@@ -65,7 +65,7 @@ However you can create one using TWO motifs, the curly motive based on a sqare t
 
 This is actually quite similar to the way the [Hilbert Curve](http://en.wikipedia.org/wiki/Hilbert_curve) is created by turtle instructions.
 
-![](http://www.fractalcurves.com/images/Hilbert_process.jpg)
+![](https://web.archive.org/web/20140603053118/http://www.fractalcurves.com/images/Hilbert_process.jpg)
 
 #### What's next?
 
